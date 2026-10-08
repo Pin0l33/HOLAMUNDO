@@ -1,6 +1,6 @@
 # 💻 Actividad 2: El Taller del Programador (Configuración de Entorno & C++)
 
-**Inegrantes** Del Pino, Mattia, Orue, Ferrari
+**Integrantes** Del Pino, Mattia, Orue, Ferrari
 **Materia:** Laboratorio de Programación (LPR) — 5° 3° A-B  
 **Institución:** E.E.S.T. N° 1 "Eduardo Ader" — Vicente López  
 **Ciclo Lectivo:** 2026 (1° Cuatrimestre)  
